@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Sander Smedbøl, and I am a Front-end development student at Noroff School of Technology and Digital Media in Oslo.
+My name is Sander Smedbøl, I am 27 years old, and I am a Front-end development student at Noroff School of Technology and Digital Media in Oslo.
 
 - 🔭 I’m currently working on my portfolio
 - 🌱 I’m currently learning everything there is to know about Front-end development
